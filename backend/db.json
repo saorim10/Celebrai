@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Marcelo Saorim",
+      "email": "marcelo.saorim@email.com",
+      "id": 1
+    },
+    {
+      "name": "Selma Saorim",
+      "email": "selmasaorim@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "nomenome",
+      "email": "emailemail",
+      "id": 3
+    }
+  ]
+}
